@@ -12,12 +12,12 @@ section{
     background-color: rgb(238, 206, 117);
     display: flex;
     position: relative;
-    top: 100px;
+    top: 90px;
     height: 420px;
     width: 300px;
     border-radius: 10px;
     padding: 30px;
-    margin-left: 40%;
+    margin-left: 35%;
 }
 .image{
     background-image: url(./images/image-qr-code.png);
@@ -55,6 +55,7 @@ p{
     }
     section{
         margin-left: 30%;
+        top: 25%;
     }
     p{
         text-align: center;
@@ -66,7 +67,8 @@ p{
         background-color: black;
     }
     section{
-        margin-left: 20%;
+        margin-left: 25%;
+        top: 20%;
     }
     p{
         text-align: center;
